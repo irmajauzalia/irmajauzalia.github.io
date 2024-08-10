@@ -74,6 +74,7 @@ body{
         margin: 0;
     }
     .heading-greeting{
+        margin-top: 20px;
         font-size: 22px;
         margin-bottom: 0;
     }
